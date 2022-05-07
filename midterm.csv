@@ -1,0 +1,867 @@
+score,label_value,age,sex,went_icu,location
+0.0,0,50.0 - 75.0,M,N,Asia
+0.0,0,50.0 - 75.0,M,N,Asia
+0.0,0,50.0 - 75.0,M,N,Asia
+0.0,0,50.0 - 75.0,M,N,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+1.0,1,Not found,I,Y,NL
+0.0,0,Not found,I,Y,Asia
+0.0,0,Not found,I,Y,Asia
+1.0,1,50.0 - 75.0,M,NR,America
+1.0,1,50.0 - 75.0,M,NR,America
+1.0,1,50.0 - 75.0,M,NR,America
+1.0,1,25.0 - 50.0,F,NR,America
+1.0,1,25.0 - 50.0,F,NR,America
+1.0,1,25.0 - 50.0,F,NR,America
+1.0,1,25.0 - 50.0,F,NR,America
+1.0,1,25.0 - 50.0,F,NR,America
+0.0,0,50.0 - 75.0,M,NR,America
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,Not found,F,NR,Asia
+0.0,0,Not found,M,NR,Asia
+0.0,0,Not found,M,NR,Asia
+0.0,0,Not found,M,NR,Asia
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+0.0,0,Not found,M,NR,Europa
+0.0,0,Not found,M,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,I,NR,Asia
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,F,NR,Europa
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,75.0 - 100.0,F,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,25.0 - 50.0,M,Y,Asia
+0.0,0,25.0 - 50.0,M,Y,Asia
+0.0,0,25.0 - 50.0,M,Y,Asia
+0.0,0,25.0 - 50.0,F,N,Asia
+0.0,0,25.0 - 50.0,F,N,Asia
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,Not found,F,NR,Oceania
+0.0,0,Not found,F,NR,Oceania
+0.0,0,50.0 - 75.0,M,NR,NL
+0.0,0,75.0 - 100.0,F,NR,Asia
+0.0,0,25.0 - 50.0,F,NR,Asia
+0.0,0,Not found,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,NL
+0.0,0,75.0 - 100.0,M,Y,NL
+0.0,0,25.0 - 50.0,M,NR,NL
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,75.0 - 100.0,M,NR,Oceania
+1.0,1,75.0 - 100.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,25.0 - 50.0,F,NR,Asia
+0.0,0,50.0 - 75.0,F,N,Europa
+0.0,0,50.0 - 75.0,F,N,Europa
+0.0,0,50.0 - 75.0,F,N,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,NL
+1.0,1,25.0 - 50.0,F,NR,NL
+1.0,1,25.0 - 50.0,F,NR,NL
+1.0,1,Not found,I,NR,Oceania
+1.0,1,Not found,I,NR,NL
+1.0,1,Not found,I,NR,America
+1.0,1,Not found,M,NR,NL
+1.0,1,Not found,M,NR,NL
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Europa
+0.0,0,Not found,I,NR,NL
+0.0,0,Not found,I,NR,NL
+0.0,0,Not found,I,NR,NL
+0.0,0,Not found,I,NR,NL
+0.0,0,Not found,I,NR,NL
+0.0,0,Not found,I,NR,NL
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,America
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,Y,NL
+0.0,0,25.0 - 50.0,M,Y,NL
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,75.0 - 100.0,M,Y,Europa
+0.0,0,75.0 - 100.0,M,Y,Europa
+0.0,0,75.0 - 100.0,M,Y,Europa
+0.0,0,Not found,F,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+1.0,1,75.0 - 100.0,M,NR,Asia
+1.0,1,50.0 - 75.0,F,Y,Oceania
+0.0,0,50.0 - 75.0,F,Y,Oceania
+0.0,0,50.0 - 75.0,F,Y,Oceania
+0.0,0,50.0 - 75.0,F,Y,Oceania
+0.0,0,50.0 - 75.0,F,Y,Oceania
+0.0,0,25.0 - 50.0,F,NR,Asia
+0.0,0,Not found,I,NR,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,America
+0.0,0,50.0 - 75.0,M,Y,America
+0.0,0,50.0 - 75.0,M,Y,America
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,F,NR,America
+0.0,0,25.0 - 50.0,F,NR,America
+0.0,0,75.0 - 100.0,F,NR,Asia
+0.0,0,75.0 - 100.0,F,NR,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,F,NR,NL
+0.0,0,50.0 - 75.0,M,NR,NL
+0.0,0,50.0 - 75.0,I,NR,NL
+0.0,0,50.0 - 75.0,I,NR,NL
+0.0,0,Not found,I,Y,NL
+0.0,0,Not found,I,Y,NL
+0.0,0,75.0 - 100.0,M,NR,NL
+0.0,0,50.0 - 75.0,M,NR,NL
+0.0,0,75.0 - 100.0,M,NR,NL
+0.0,0,50.0 - 75.0,M,Y,NL
+0.0,0,50.0 - 75.0,M,Y,NL
+0.0,0,50.0 - 75.0,M,Y,NL
+0.0,0,50.0 - 75.0,M,Y,NL
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+0.0,0,25.0 - 50.0,I,NR,Europa
+1.0,1,25.0 - 50.0,I,NR,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+1.0,1,Not found,F,N,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,F,N,Europa
+1.0,1,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,Y,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,F,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,N,Europa
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,F,N,Europa
+1.0,1,50.0 - 75.0,F,N,Europa
+1.0,1,25.0 - 50.0,M,N,Europa
+1.0,1,25.0 - 50.0,M,N,Europa
+1.0,1,50.0 - 75.0,M,NR,Asia
+1.0,1,50.0 - 75.0,M,NR,Asia
+1.0,1,25.0 - 50.0,M,Y,Europa
+1.0,1,25.0 - 50.0,M,Y,Europa
+1.0,1,25.0 - 50.0,M,Y,Europa
+1.0,1,25.0 - 50.0,M,Y,Europa
+1.0,1,25.0 - 50.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,N,Europa
+1.0,1,50.0 - 75.0,M,N,Europa
+1.0,1,50.0 - 75.0,M,N,Europa
+1.0,1,50.0 - 75.0,M,N,Europa
+1.0,1,50.0 - 75.0,F,Y,Asia
+1.0,1,50.0 - 75.0,F,Y,Asia
+1.0,1,50.0 - 75.0,F,Y,Asia
+1.0,1,50.0 - 75.0,F,Y,Asia
+1.0,1,50.0 - 75.0,F,NR,Europa
+1.0,1,50.0 - 75.0,F,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,Not found,I,NR,NL
+0.0,0,Not found,I,NR,NL
+0.0,0,Not found,I,NR,NL
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,I,NR,America
+0.0,0,50.0 - 75.0,I,NR,America
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,N,America
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,75.0 - 100.0,F,Y,America
+0.0,0,50.0 - 75.0,M,Y,America
+0.0,0,50.0 - 75.0,M,Y,America
+0.0,0,25.0 - 50.0,M,Y,America
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+1.0,1,75.0 - 100.0,M,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,0.0 - 25.0,M,NR,America
+0.0,0,0.0 - 25.0,M,NR,America
+0.0,0,0.0 - 25.0,M,NR,America
+0.0,0,75.0 - 100.0,F,N,Asia
+0.0,0,75.0 - 100.0,F,N,Asia
+1.0,1,75.0 - 100.0,F,N,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+1.0,1,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,F,Y,Asia
+1.0,1,25.0 - 50.0,M,Y,Asia
+1.0,1,25.0 - 50.0,M,Y,Asia
+0.0,0,25.0 - 50.0,M,Y,Asia
+0.0,0,25.0 - 50.0,M,Y,Asia
+0.0,0,25.0 - 50.0,M,Y,Asia
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,50.0 - 75.0,F,Y,Europa
+0.0,0,75.0 - 100.0,I,NR,Europa
+0.0,0,75.0 - 100.0,I,NR,Europa
+0.0,0,75.0 - 100.0,I,NR,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,75.0 - 100.0,F,NR,Europa
+0.0,0,75.0 - 100.0,F,NR,Europa
+0.0,0,75.0 - 100.0,F,NR,Europa
+1.0,1,75.0 - 100.0,F,N,Europa
+0.0,0,75.0 - 100.0,F,N,Europa
+0.0,0,75.0 - 100.0,M,NR,Asia
+0.0,0,75.0 - 100.0,M,NR,Asia
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,25.0 - 50.0,F,N,Asia
+0.0,0,25.0 - 50.0,M,Y,Asia
+0.0,0,25.0 - 50.0,M,Y,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+0.0,0,50.0 - 75.0,F,N,Asia
+0.0,0,50.0 - 75.0,M,Y,America
+0.0,0,25.0 - 50.0,M,Y,America
+0.0,0,75.0 - 100.0,M,Y,America
+0.0,0,75.0 - 100.0,M,Y,America
+0.0,0,50.0 - 75.0,F,Y,America
+0.0,0,50.0 - 75.0,F,Y,America
+1.0,1,50.0 - 75.0,F,N,Europa
+1.0,1,50.0 - 75.0,F,N,Europa
+1.0,1,50.0 - 75.0,F,N,Europa
+1.0,1,75.0 - 100.0,M,Y,Europa
+1.0,1,75.0 - 100.0,M,Y,Europa
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,25.0 - 50.0,F,Y,Europa
+0.0,0,25.0 - 50.0,F,N,Europa
+0.0,0,25.0 - 50.0,F,N,Europa
+0.0,0,25.0 - 50.0,F,N,Europa
+0.0,0,25.0 - 50.0,F,N,Europa
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+1.0,1,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,75.0 - 100.0,F,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,25.0 - 50.0,M,Y,America
+0.0,0,25.0 - 50.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,NR,America
+0.0,0,75.0 - 100.0,M,Y,Europa
+0.0,0,75.0 - 100.0,M,Y,Europa
+0.0,0,75.0 - 100.0,M,Y,Europa
+0.0,0,75.0 - 100.0,M,Y,Europa
+0.0,0,25.0 - 50.0,F,NR,Asia
+0.0,0,25.0 - 50.0,F,NR,Asia
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,75.0 - 100.0,F,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Asia
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Asia
+1.0,1,25.0 - 50.0,F,NR,Asia
+1.0,1,50.0 - 75.0,F,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,75.0 - 100.0,F,NR,America
+1.0,1,75.0 - 100.0,F,NR,America
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,M,Y,Asia
+1.0,1,25.0 - 50.0,M,Y,Asia
+1.0,1,25.0 - 50.0,M,Y,Asia
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Asia
+1.0,1,50.0 - 75.0,F,NR,Europa
+1.0,1,50.0 - 75.0,F,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,America
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,0.0 - 25.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Asia
+1.0,1,25.0 - 50.0,M,NR,Asia
+1.0,1,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,F,Y,Europa
+1.0,1,50.0 - 75.0,F,Y,Europa
+1.0,1,50.0 - 75.0,F,Y,Europa
+1.0,1,50.0 - 75.0,F,NR,NL
+1.0,1,50.0 - 75.0,F,NR,NL
+1.0,1,25.0 - 50.0,M,NR,NL
+1.0,1,25.0 - 50.0,M,NR,NL
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,NL
+1.0,1,50.0 - 75.0,F,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,NL
+1.0,1,25.0 - 50.0,M,NR,NL
+1.0,1,25.0 - 50.0,M,NR,NL
+1.0,1,25.0 - 50.0,M,NR,NL
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,50.0 - 75.0,F,NR,NL
+1.0,1,50.0 - 75.0,F,NR,NL
+1.0,1,50.0 - 75.0,M,NR,NL
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,0.0 - 25.0,M,NR,Europa
+1.0,1,0.0 - 25.0,M,NR,Europa
+0.0,0,Not found,I,NR,Europa
+1.0,1,Not found,I,NR,NL
+1.0,1,Not found,I,NR,NL
+1.0,1,Not found,I,NR,NL
+1.0,1,Not found,I,NR,NL
+1.0,1,Not found,I,NR,NL
+1.0,1,Not found,I,NR,NL
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,F,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,75.0 - 100.0,M,Y,America
+0.0,0,25.0 - 50.0,M,Y,America
+1.0,1,Not found,F,N,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,F,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,M,N,Europa
+1.0,1,Not found,F,N,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,50.0 - 75.0,M,Y,Asia
+0.0,0,Not found,M,NR,Europa
+1.0,1,Not found,M,NR,Europa
+1.0,1,50.0 - 75.0,F,NR,Oceania
+1.0,1,0.0 - 25.0,M,NR,Asia
+1.0,1,0.0 - 25.0,M,NR,Asia
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,75.0 - 100.0,F,NR,Oceania
+1.0,1,75.0 - 100.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,M,N,Oceania
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,F,Y,America
+0.0,0,25.0 - 50.0,M,NR,Asia
+1.0,1,50.0 - 75.0,F,NR,Oceania
+1.0,1,50.0 - 75.0,F,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,F,NR,Oceania
+1.0,1,50.0 - 75.0,F,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,America
+1.0,1,25.0 - 50.0,F,NR,America
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+0.0,0,0.0 - 25.0,M,NR,Europa
+0.0,0,0.0 - 25.0,M,NR,Europa
+0.0,0,0.0 - 25.0,M,NR,Europa
+0.0,0,0.0 - 25.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,N,America
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,50.0 - 75.0,M,Y,America
+0.0,0,50.0 - 75.0,M,Y,America
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+1.0,1,50.0 - 75.0,F,Y,Europa
+1.0,1,50.0 - 75.0,F,Y,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,NL
+1.0,1,50.0 - 75.0,M,NR,NL
+0.0,1,50.0 - 75.0,F,NR,America
+0.0,1,50.0 - 75.0,F,NR,America
+0.0,1,50.0 - 75.0,F,NR,America
+0.0,0,25.0 - 50.0,M,N,America
+0.0,0,25.0 - 50.0,M,N,America
+0.0,0,25.0 - 50.0,M,N,America
+0.0,0,25.0 - 50.0,M,N,America
+0.0,0,25.0 - 50.0,M,N,America
+0.0,0,25.0 - 50.0,M,N,America
+0.0,0,25.0 - 50.0,M,N,America
+1.0,1,25.0 - 50.0,M,NR,Oceania
+1.0,1,25.0 - 50.0,F,NR,Oceania
+1.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,75.0 - 100.0,F,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+1.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,25.0 - 50.0,F,NR,Asia
+0.0,0,25.0 - 50.0,F,NR,Asia
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+1.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Oceania
+1.0,1,50.0 - 75.0,M,NR,Oceania
+0.0,1,75.0 - 100.0,F,NR,Europa
+0.0,1,75.0 - 100.0,F,NR,Europa
+0.0,1,75.0 - 100.0,F,NR,Europa
+0.0,1,75.0 - 100.0,F,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,America
+0.0,0,Not found,I,NR,NL
+0.0,0,Not found,I,NR,NL
+0.0,0,75.0 - 100.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+1.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,75.0 - 100.0,M,NR,Europa
+1.0,0,25.0 - 50.0,M,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,Not found,I,NR,Asia
+0.0,0,50.0 - 75.0,M,NR,Asia
+1.0,1,0.0 - 25.0,M,NR,Asia
+1.0,1,0.0 - 25.0,F,NR,Asia
+1.0,1,0.0 - 25.0,F,NR,Asia
+1.0,1,0.0 - 25.0,F,NR,Asia
+0.0,0,75.0 - 100.0,M,NR,Europa
+1.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,25.0 - 50.0,F,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,NL
+0.0,0,50.0 - 75.0,M,NR,NL
+1.0,0,50.0 - 75.0,M,NR,NL
+0.0,0,25.0 - 50.0,F,NR,Asia
+0.0,0,25.0 - 50.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+1.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,25.0 - 50.0,I,NR,Europa
+0.0,0,25.0 - 50.0,I,NR,Europa
+1.0,0,Not found,F,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,Y,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+0.0,0,Not found,M,N,Europa
+1.0,0,Not found,M,N,Europa
+0.0,0,Not found,F,N,Europa
+1.0,1,75.0 - 100.0,M,N,Europa
+1.0,1,75.0 - 100.0,M,N,Europa
+1.0,1,75.0 - 100.0,M,N,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,Not found,I,NR,Europa
+0.0,0,Not found,I,NR,Europa
+0.0,0,25.0 - 50.0,M,Y,Europa
+1.0,0,25.0 - 50.0,M,Y,Europa
+0.0,0,25.0 - 50.0,M,Y,Europa
+0.0,0,25.0 - 50.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+0.0,0,25.0 - 50.0,M,N,America
+0.0,0,50.0 - 75.0,M,NR,Asia
+0.0,0,25.0 - 50.0,F,Y,Europa
+0.0,0,25.0 - 50.0,F,Y,Europa
+0.0,0,75.0 - 100.0,M,Y,Europa
+0.0,0,75.0 - 100.0,M,Y,Europa
+1.0,0,75.0 - 100.0,F,N,Europa
+1.0,0,75.0 - 100.0,F,N,Europa
+0.0,0,50.0 - 75.0,F,NR,Europa
+0.0,0,75.0 - 100.0,M,Y,Europa
+0.0,0,50.0 - 75.0,M,Y,Europa
+1.0,1,50.0 - 75.0,F,NR,Asia
+1.0,1,50.0 - 75.0,F,NR,Asia
+1.0,1,25.0 - 50.0,M,NR,America
+0.0,1,25.0 - 50.0,M,NR,America
+1.0,1,25.0 - 50.0,F,NR,America
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,Not found,M,Y,Europa
+0.0,1,Not found,M,Y,Europa
+1.0,1,Not found,F,N,Europa
+1.0,1,Not found,M,Y,Europa
+1.0,1,0.0 - 25.0,F,Y,NL
+0.0,1,25.0 - 50.0,M,NR,NL
+1.0,1,25.0 - 50.0,M,NR,NL
+1.0,1,50.0 - 75.0,M,NR,Europa
+1.0,1,25.0 - 50.0,F,NR,NL
+1.0,1,50.0 - 75.0,F,NR,Europa
+1.0,1,50.0 - 75.0,F,NR,Europa
+0.0,1,50.0 - 75.0,F,NR,Europa
+0.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+0.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+0.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,Europa
+0.0,1,25.0 - 50.0,M,NR,Europa
+1.0,1,75.0 - 100.0,M,NR,Europa
+1.0,1,Not found,I,NR,NL
+0.0,1,Not found,I,NR,NL
+0.0,1,Not found,I,NR,NL
+0.0,1,Not found,I,NR,NL
+1.0,1,Not found,I,NR,NL
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+0.0,0,50.0 - 75.0,M,NR,Europa
+1.0,1,50.0 - 75.0,M,NR,Oceania
+0.0,0,50.0 - 75.0,I,NR,Europa
+1.0,1,75.0 - 100.0,M,NR,Oceania
+1.0,1,75.0 - 100.0,M,NR,Oceania
+0.0,0,50.0 - 75.0,M,NR,America
+0.0,1,75.0 - 100.0,F,NR,Europa
+0.0,1,75.0 - 100.0,F,NR,Europa
+1.0,1,25.0 - 50.0,M,NR,NL
