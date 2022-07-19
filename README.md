@@ -2,7 +2,7 @@
 Dataset and experiments from "Biases associated with database structure for
 COVID-19 detection in x-ray images" \cite
 ## Cohen Datasets
-On this folder are the Images from Cohen dataset with the respective dataset from [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset). Also on Divided Sets is found the metadata of each of the set of the experiment used on notebook Cohen experiment.ipynb, but also those datasets are separated and saved on NPY files on the NPY files folder.
+On this folder are the Images from Cohen dataset with the respective dataset from [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset). Also on Divided Sets is found the metadata of each of the set of the experiment used on notebook Cohen experiment.ipynb.
 ## Notebooks 
 ### Cohen experiment.ipynb 
 this notebook contains the development of a classification model using the Cohen dataset and a VGG19 the result of this notebook is save in df_pred1.csv for its use on the Ethical tool Aequitas on Aequitas Notebook.ipynb
