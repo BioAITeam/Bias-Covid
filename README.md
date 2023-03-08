@@ -1,6 +1,7 @@
 # Bias-Covid
 Dataset and experiments from "Biases associated with database structure for
 COVID-19 detection in x-ray images"
+https://doi.org/10.1038/s41598-023-30174-1
 ## Cohen Datasets
 On this folder are the Images from Cohen dataset with the respective dataset from [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset). Also on Divided Sets is found the metadata of each of the set of the experiment used on notebook **Cohen experiment.ipynb**.
 ## Notebooks 
